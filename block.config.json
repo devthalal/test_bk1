@@ -1,0 +1,8 @@
+{
+  "name": "test_bk1",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/devthalal/test_bk1",
+    "ssh": "git@github.com:devthalal/test_bk1.git"
+  }
+}
